@@ -60,3 +60,9 @@ The dashboard provides insights into:
 
 ## Author
 Yahya Al01
+
+## Files Included
+
+- Steam_Dashboard.pbix : Power BI dashboard file
+- STEAM_DB_PRESENTATION.pptx : Project presentation
+- steam_data.csv : Dataset used for analysis
